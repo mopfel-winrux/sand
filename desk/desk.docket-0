@@ -1,0 +1,10 @@
+:~
+  title+'Sand'
+  info+'Falling Sand on Urbit'
+  color+0xc2.b280
+  version+[0 1 1]
+  website+'https://github.com/mopfel-winrux/sand'
+  license+'lol'
+  base+'sand'
+  glob-ames+[~fel 0v0]
+==
